@@ -9,6 +9,7 @@
       <link>https://www.etsinshao.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://www.etsinshao.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>Copyright 2017-{year}</copyright><atom:link href="https://www.etsinshao.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
