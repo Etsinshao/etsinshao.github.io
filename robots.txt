@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.etsinshao.com/sitemap.xml
